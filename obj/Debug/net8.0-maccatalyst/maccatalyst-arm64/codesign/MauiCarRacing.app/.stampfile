@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/mangkhud/Documents/dx212_vscode/MauiCarRacing/MauiCarRacing/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/mangkhud/Documents/dx212_vscode/MauiCarRacing/MauiCarRacing/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MauiCarRacing.app
